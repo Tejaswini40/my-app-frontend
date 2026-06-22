@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding: 50px;
+    background-color: #7dd832;
+    margin: 50px;
+
+}
